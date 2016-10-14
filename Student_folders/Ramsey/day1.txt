@@ -1,0 +1,3 @@
+Type: Floating Point Number
+Bit Length: 64-bit
+Endianess: Little Endian

@@ -1,0 +1,4 @@
+<f8
+Data Type  = dfloat
+Bit Length = 64 bits
+Little-endian means it is read for left to right.

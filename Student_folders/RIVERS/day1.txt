@@ -1,0 +1,6 @@
+Column name='PosErr'
+dtype='float64' 
+unit='deg' 
+description='Positional uncertainty' 
+length=1761
+endian= little-endian
