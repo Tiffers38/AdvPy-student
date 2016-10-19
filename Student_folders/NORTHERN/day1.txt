@@ -1,0 +1,6 @@
+column 3 data type:
+
+column 3 data typ-->float64 double precision float
+sign bit, 11 bits exponent, 52 bits mantissa
+
+
