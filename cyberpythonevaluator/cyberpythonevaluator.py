@@ -204,7 +204,7 @@ challenge_data = [
   },
   {
     "name": "arith-0",
-    "description": "Create a function which receives a number and returns True if the number is odd, and False if the number is even.",
+    "description": "Create a function which receives a number and returns False if the number is odd, and True if the number is even.",
     "example_input": "10101",
     "example_output": "False",
     "inputs": random_number_list(1, 256, 2),
