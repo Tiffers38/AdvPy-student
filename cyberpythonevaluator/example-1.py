@@ -11,5 +11,5 @@ print "Example Output", challenge.example_output
 def solution (lhs, rhs) :
     return lhs + rhs
 
-#print challenge.validate(solution, debug=True)
+print challenge.validate(solution, debug=True)
 print challenge.validate(solution, debug=True)
